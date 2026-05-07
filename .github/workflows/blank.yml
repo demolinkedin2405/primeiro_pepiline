@@ -40,9 +40,6 @@ jobs:
     with:
       variavel-demo: "Demo Dev"
 
-
-
-
   deploy-hml:
     needs: build
     environment: desenvolvimento
