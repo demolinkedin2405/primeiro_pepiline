@@ -38,7 +38,7 @@ jobs:
     needs: build
     uses: demolinkedin2405/pipeline_templates/.github/workflows/demo-deploy.yml@main
     with:
-      variavel-demo:"Demo Dev"
+      variavel-demo: "Demo Dev"
 
 
 
